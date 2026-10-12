@@ -201,7 +201,6 @@ civitai|loras|krea2-realism-v1___v2_krea2-realism-v2.safetensors|https://civitai
 civitai|loras|bfs_-_best_face_swap_krea_2_body_swap_exp__v1.safetensors|https://civitai.com/api/download/models/3188610
 civitai|loras|bfs_-_best_face_swap_krea_2_-_v1_experimental.safetensors|https://civitai.com/api/download/models/3181157
 huggingface|loras|kirsten_vh_krea2.safetensors|https://huggingface.co/kiddvmn/kirsten_vh_krea2/resolve/main/kirsten_vh_krea2.safetensors
-huggingface|loras|lexi_vh.safetensors|https://huggingface.co/kiddvmn/lexi_vh/resolve/main/lexi_vh.safetensors
 huggingface|upscale_models|x1_ITF_SkinDiffDetail_Lite_v1.pth|https://huggingface.co/gemasai/x1_ITF_SkinDiffDetail_Lite_v1/resolve/main/x1_ITF_SkinDiffDetail_Lite_v1.pth
 huggingface|upscale_models|4x_NMKD-Superscale-SP_178000_G.pth|https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth
 civitai|loras|_krea_2__bloomgirls_ultrarealism_v1_0__main_.safetensors|https://civitai.com/api/download/models/3191538
