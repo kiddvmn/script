@@ -205,7 +205,7 @@ huggingface|loras|claw97style.safetensors|https://huggingface.co/kiddvmn/claw97s
 huggingface|loras|claw97style_000002000.safetensors|https://huggingface.co/kiddvmn/claw97style/resolve/main/claw97style_000002000.safetensors
 huggingface|upscale_models|x1_ITF_SkinDiffDetail_Lite_v1.pth|https://huggingface.co/gemasai/x1_ITF_SkinDiffDetail_Lite_v1/resolve/main/x1_ITF_SkinDiffDetail_Lite_v1.pth
 huggingface|upscale_models|4x_NMKD-Superscale-SP_178000_G.pth|https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth
-civitai|loras|_krea_2__bloomgirls_ultrarealism_v1_0__main_.safetensors|https://civitai.com/api/download/models/3191538
+civitai|loras|Krea2_Selfie_POV_v1.safetensors|https://civitai.com/api/download/models/3390306
 civitai|loras|realistic_snapshot__z-image-turbo___krea_2__krea2__v1_0_.safetensors|https://civitai.com/api/download/models/3371723
 huggingface|loras|krea2_identity_edit_v1_2.safetensors|https://huggingface.co/conradlocke/krea2-identity-edit/resolve/main/krea2_identity_edit_v1_2.safetensors
 MODELS_LIST
