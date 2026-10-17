@@ -185,6 +185,8 @@ Vantage-Nodes|https://github.com/vantagewithai/Vantage-Nodes
 ComfyUI-Impact-Pack|https://github.com/ltdrdata/ComfyUI-Impact-Pack
 ComfyUI-Detail-Daemon|https://github.com/Jonseed/ComfyUI-Detail-Daemon
 ComfyUI-Krea2-Ostris-Edit|https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit
+ComfyUI-Krea2Edit|https://github.com/lbouaraba/comfyui-krea2edit
+ComfyUI-Krea2-Control|https://github.com/facok/comfyui-krea2-controlnet
 NODES_LIST
 
 # Exactly 13 model URLs/filenames from the JSON export.
@@ -207,7 +209,8 @@ huggingface|upscale_models|x1_ITF_SkinDiffDetail_Lite_v1.pth|https://huggingface
 huggingface|upscale_models|4x_NMKD-Superscale-SP_178000_G.pth|https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth
 civitai|loras|Krea2_Selfie_POV_v1.safetensors|https://civitai.com/api/download/models/3390306
 civitai|loras|realistic_snapshot__z-image-turbo___krea_2__krea2__v1_0_.safetensors|https://civitai.com/api/download/models/3371723
-huggingface|loras|krea2_identity_edit_v1_2.safetensors|https://huggingface.co/conradlocke/krea2-identity-edit/resolve/main/krea2_identity_edit_v1_2.safetensors
+huggingface|loras|krea2_general_edit_v2.safetensors|https://huggingface.co/conradlocke/krea2-identity-edit/resolve/main/krea2_general_edit_v2.safetensors
+huggingface|loras|krea2_identity_edit_v2.safetensors|https://huggingface.co/conradlocke/krea2-identity-edit/resolve/main/krea2_identity_edit_v2.safetensors
 MODELS_LIST
 
 log "RESULT: model downloads=$model_downloaded, already present=$model_skipped, failed=$model_failed; nodes installed/checked=$nodes_ok, failed=$nodes_failed"
