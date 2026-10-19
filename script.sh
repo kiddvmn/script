@@ -187,6 +187,7 @@ ComfyUI-Detail-Daemon|https://github.com/Jonseed/ComfyUI-Detail-Daemon
 ComfyUI-Krea2-Ostris-Edit|https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit
 ComfyUI-Krea2Edit|https://github.com/lbouaraba/comfyui-krea2edit
 ComfyUI-Krea2-Control|https://github.com/facok/comfyui-krea2-controlnet
+KJNodes-for-ComfyUI|https://github.com/kijai/ComfyUI-KJNodes
 NODES_LIST
 
 # Exactly 13 model URLs/filenames from the JSON export.
